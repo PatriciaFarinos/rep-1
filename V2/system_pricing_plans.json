@@ -1,0 +1,1652 @@
+{
+  "last_updated": 1762792214,
+  "ttl": 30,
+  "data": {
+    "plans": [
+      {
+        "per_minute_pricing": [],
+        "plan_id": "1",
+        "name": "VIP",
+        "currency": "EUR",
+        "price": 0,
+        "description": "VIP",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [],
+        "plan_id": "1-1",
+        "name": "VIP",
+        "currency": "EUR",
+        "price": 0,
+        "description": "VIP",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [],
+        "plan_id": "1-2",
+        "name": "VIP",
+        "currency": "EUR",
+        "price": 0,
+        "description": "VIP",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "12",
+        "name": "Suscripción Anual  Bici Mecánica",
+        "currency": "EUR",
+        "price": 10,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "12-1",
+        "name": "Suscripción Anual  Bici Mecánica",
+        "currency": "EUR",
+        "price": 10,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.75,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 17,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "12-2",
+        "name": "Suscripción Anual  Bici Mecánica",
+        "currency": "EUR",
+        "price": 10,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "12-3",
+        "name": "Suscripción Anual  Bici Mecánica",
+        "currency": "EUR",
+        "price": 10,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "13",
+        "name": "Suscripción Anual Bici Eléctrica",
+        "currency": "EUR",
+        "price": 40,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "13-1",
+        "name": "Suscripción Anual Bici Eléctrica",
+        "currency": "EUR",
+        "price": 40,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.45,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 18.2,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "13-2",
+        "name": "Suscripción Anual Bici Eléctrica",
+        "currency": "EUR",
+        "price": 40,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "13-3",
+        "name": "Suscripción Anual Bici Eléctrica",
+        "currency": "EUR",
+        "price": 40,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "14",
+        "name": "Bono Mensual Bicicleta Mecánica",
+        "currency": "EUR",
+        "price": 8,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "14-1",
+        "name": "Bono Mensual Bicicleta Mecánica",
+        "currency": "EUR",
+        "price": 8,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.75,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 17,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "14-2",
+        "name": "Bono Mensual Bicicleta Mecánica",
+        "currency": "EUR",
+        "price": 8,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "14-3",
+        "name": "Bono Mensual Bicicleta Mecánica",
+        "currency": "EUR",
+        "price": 8,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "15",
+        "name": "Bono Mensual Bicicleta Eléctrica",
+        "currency": "EUR",
+        "price": 14,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "15-1",
+        "name": "Bono Mensual Bicicleta Eléctrica",
+        "currency": "EUR",
+        "price": 14,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 18.65,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "15-2",
+        "name": "Bono Mensual Bicicleta Eléctrica",
+        "currency": "EUR",
+        "price": 14,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "15-3",
+        "name": "Bono Mensual Bicicleta Eléctrica",
+        "currency": "EUR",
+        "price": 14,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "16",
+        "name": "Suscripción Mensual Bici Mecánica",
+        "currency": "EUR",
+        "price": 4,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "16-1",
+        "name": "Suscripción Mensual Bici Mecánica",
+        "currency": "EUR",
+        "price": 4,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.75,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 17,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "16-2",
+        "name": "Suscripción Mensual Bici Mecánica",
+        "currency": "EUR",
+        "price": 4,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "16-3",
+        "name": "Suscripción Mensual Bici Mecánica",
+        "currency": "EUR",
+        "price": 4,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "17",
+        "name": "Suscripción Mensual Bici Eléctrica",
+        "currency": "EUR",
+        "price": 6,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "17-1",
+        "name": "Suscripción Mensual Bici Eléctrica",
+        "currency": "EUR",
+        "price": 6,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.45,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 18.2,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "17-2",
+        "name": "Suscripción Mensual Bici Eléctrica",
+        "currency": "EUR",
+        "price": 6,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.25,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "17-3",
+        "name": "Suscripción Mensual Bici Eléctrica",
+        "currency": "EUR",
+        "price": 6,
+        "description": "+ tariff according to use",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "18",
+        "name": "Bono Anual Bicicleta Mecánica",
+        "currency": "EUR",
+        "price": 119.17,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "18-1",
+        "name": "Bono Anual Bicicleta Mecánica",
+        "currency": "EUR",
+        "price": 119.17,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 0,
+            "rate": 0.75,
+            "interval": 31,
+            "end": 31
+          },
+          {
+            "start": 31,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.75,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 17,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "18-2",
+        "name": "Bono Anual Bicicleta Mecánica",
+        "currency": "EUR",
+        "price": 119.17,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "18-3",
+        "name": "Bono Anual Bicicleta Mecánica",
+        "currency": "EUR",
+        "price": 119.17,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "19",
+        "name": "Bono Anual Bicicleta Eléctrica",
+        "currency": "EUR",
+        "price": 234.67,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "19-1",
+        "name": "Bono Anual Bicicleta Eléctrica",
+        "currency": "EUR",
+        "price": 234.67,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.45,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 18.65,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "19-2",
+        "name": "Bono Anual Bicicleta Eléctrica",
+        "currency": "EUR",
+        "price": 234.67,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [
+          {
+            "start": 31,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 91
+          },
+          {
+            "start": 91,
+            "rate": 0.25,
+            "interval": 30,
+            "end": 121
+          },
+          {
+            "start": 121,
+            "rate": 19.25,
+            "interval": 60,
+            "end": 181
+          },
+          {
+            "start": 181,
+            "rate": 40,
+            "interval": 1260,
+            "end": 1441
+          },
+          {
+            "start": 1441,
+            "rate": 140,
+            "interval": 1,
+            "end": 1442
+          }
+        ],
+        "plan_id": "19-3",
+        "name": "Bono Anual Bicicleta Eléctrica",
+        "currency": "EUR",
+        "price": 234.67,
+        "description": "Free 30 min. journeys.",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [],
+        "plan_id": "23",
+        "name": "BIKI EVENTOS ",
+        "currency": "EUR",
+        "price": 0,
+        "description": "BIKI EVENTOS ",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [],
+        "plan_id": "23-1",
+        "name": "BIKI EVENTOS ",
+        "currency": "EUR",
+        "price": 0,
+        "description": "BIKI EVENTOS ",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [],
+        "plan_id": "23-2",
+        "name": "BIKI EVENTOS ",
+        "currency": "EUR",
+        "price": 0,
+        "description": "BIKI EVENTOS ",
+        "is_taxable": false
+      },
+      {
+        "per_minute_pricing": [],
+        "plan_id": "23-3",
+        "name": "BIKI EVENTOS ",
+        "currency": "EUR",
+        "price": 0,
+        "description": "BIKI EVENTOS ",
+        "is_taxable": false
+      }
+    ]
+  },
+  "version": "2.3"
+}

@@ -1,0 +1,3161 @@
+{
+  "last_updated": 1762791161,
+  "ttl": 26,
+  "data": {
+    "stations": [
+      {
+        "station_id": "2",
+        "name": "001 Fuente Dorada",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.65229,
+        "lon": -4.72663,
+        "altitude": 0,
+        "address": "Plaza de Fuente Dorada",
+        "post_code": "47002",
+        "capacity": 27,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "1",
+        "short_name": "1",
+        "nearby_distance": 0,
+        "_bluetooth_id": "955c",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "3",
+        "name": "002 Plaza Madrid",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.64782,
+        "lon": -4.7257204,
+        "altitude": 0,
+        "address": "Plaza de Madrid",
+        "post_code": "47004",
+        "capacity": 25,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "2",
+        "short_name": "2",
+        "nearby_distance": 0,
+        "_bluetooth_id": "e5d3",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "4",
+        "name": "003 Estación de Tren",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.643311,
+        "lon": -4.726401,
+        "altitude": 0,
+        "address": "Calle Recondo",
+        "post_code": "47007",
+        "capacity": 27,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "3",
+        "short_name": "3",
+        "nearby_distance": 0,
+        "_bluetooth_id": "b29c",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "5",
+        "name": "004 Plaza Circular",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.64675,
+        "lon": -4.71676,
+        "altitude": 0,
+        "address": "Plaza Circular",
+        "post_code": "47004",
+        "capacity": 27,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "4",
+        "short_name": "4",
+        "nearby_distance": 0,
+        "_bluetooth_id": "8ac5",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "6",
+        "name": "005 Plaza Trinidad",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.657097,
+        "lon": -4.7301516,
+        "altitude": 0,
+        "address": "Calle San Quirce",
+        "post_code": "47003",
+        "capacity": 26,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "5",
+        "short_name": "5",
+        "nearby_distance": 0,
+        "_bluetooth_id": "c3a1",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "7",
+        "name": "006 Plaza Santa Cruz",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6508644,
+        "lon": -4.720593,
+        "altitude": 0,
+        "address": "Plaza Santa Cruz",
+        "post_code": "47002",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "6",
+        "short_name": "6",
+        "nearby_distance": 0,
+        "_bluetooth_id": "11d4",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "8",
+        "name": "007 Plaza Poniente",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6528,
+        "lon": -4.73154,
+        "altitude": 0,
+        "address": "Plaza del Poniente",
+        "post_code": "47003",
+        "capacity": 47,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "7",
+        "short_name": "7",
+        "nearby_distance": 0,
+        "_bluetooth_id": "464a",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "9",
+        "name": "008 Paseo Filipinos",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.645182,
+        "lon": -4.733784,
+        "altitude": 0,
+        "address": "Paseo Zorrilla 36",
+        "cross_street": "41.645177, -4.733795",
+        "capacity": 27,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "8",
+        "short_name": "8",
+        "nearby_distance": 0,
+        "_bluetooth_id": "6dba",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "10",
+        "name": "009 Plaza Zorrilla",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.648,
+        "lon": -4.72903,
+        "altitude": 0,
+        "address": "Acera de Recoletos1",
+        "post_code": "47004",
+        "capacity": 27,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "9",
+        "short_name": "9",
+        "nearby_distance": 0,
+        "_bluetooth_id": "a5e3",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "11",
+        "name": "010 Cadenas de San Gregorio",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.657894,
+        "lon": -4.7220414,
+        "altitude": 0,
+        "address": "Calle Gondomar20",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "10",
+        "short_name": "10",
+        "nearby_distance": 0,
+        "_bluetooth_id": "18bc",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "12",
+        "name": "011 Facultad Medicina",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6545919,
+        "lon": -4.7164646,
+        "altitude": 0,
+        "address": "Av. Ramon y Cajal4",
+        "post_code": "47005",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "11",
+        "short_name": "11",
+        "nearby_distance": 0,
+        "_bluetooth_id": "a10c",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "13",
+        "name": "012 Teatro Cervantes",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.649218,
+        "lon": -4.72289,
+        "altitude": 0,
+        "address": "Calle de Simón Aranda6",
+        "capacity": 27,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "12",
+        "short_name": "12",
+        "nearby_distance": 0,
+        "_bluetooth_id": "683d",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "14",
+        "name": "013 CASA DEL ESTUDIANTE- CLÍNICO",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6571454,
+        "lon": -4.7178985,
+        "altitude": 0,
+        "address": "Calle Real de Burgos6",
+        "post_code": "47011",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "13",
+        "short_name": "13",
+        "nearby_distance": 0,
+        "_bluetooth_id": "4836",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "15",
+        "name": "014 Plaza de San Miguel",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6552,
+        "lon": -4.72752,
+        "altitude": 0,
+        "address": "Calle de la Concepción 3",
+        "post_code": "47003",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "14",
+        "short_name": "14",
+        "nearby_distance": 0,
+        "_bluetooth_id": "31a8",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "16",
+        "name": "015 Plaza de la Libertad",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.653071,
+        "lon": -4.7246185,
+        "altitude": 0,
+        "address": "Plaza de la Libertad",
+        "post_code": "47002",
+        "capacity": 27,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "15",
+        "short_name": "15",
+        "nearby_distance": 0,
+        "_bluetooth_id": "b647",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "17",
+        "name": "016 Plaza Caño Argales",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6466578,
+        "lon": -4.7228175,
+        "altitude": 0,
+        "address": "Calle de Panaderos36",
+        "post_code": "47004",
+        "capacity": 27,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "16",
+        "short_name": "16",
+        "nearby_distance": 0,
+        "_bluetooth_id": "f6ad",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "18",
+        "name": "017 PLAZA DE SAN JUAN",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.65071,
+        "lon": -4.71746,
+        "altitude": 0,
+        "address": "Calle Bautismo 3",
+        "post_code": "47005",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "17",
+        "short_name": "17",
+        "nearby_distance": 0,
+        "_bluetooth_id": "f151",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "19",
+        "name": "018 Duque de la Victoria",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6502313,
+        "lon": -4.7263028,
+        "altitude": 0,
+        "address": "Calle del Duque de la Victoria17",
+        "post_code": "47001",
+        "capacity": 18,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "18",
+        "short_name": "18",
+        "nearby_distance": 0,
+        "_bluetooth_id": "48af",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "20",
+        "name": "019 Angustias",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.65561,
+        "lon": -4.72373,
+        "altitude": 0,
+        "address": "Calle de la Angustias15",
+        "post_code": "47003",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "19",
+        "short_name": "19",
+        "nearby_distance": 0,
+        "_bluetooth_id": "6a94",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "21",
+        "name": "020 MARÍA DE MOLINA",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.649817,
+        "lon": -4.730482,
+        "altitude": null,
+        "address": "Calle María de Molina, 5",
+        "post_code": "47001",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 1"
+        ],
+        "obcn": "20",
+        "short_name": "20",
+        "nearby_distance": 0,
+        "_bluetooth_id": "6e7d",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "22",
+        "name": "101 Fuente El Sol",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.66545,
+        "lon": -4.734976,
+        "altitude": 0,
+        "address": "Calle Fuente El Sol45",
+        "post_code": "47009",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 2"
+        ],
+        "obcn": "101",
+        "short_name": "101",
+        "nearby_distance": 0,
+        "_bluetooth_id": "2daa",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "23",
+        "name": "102 Calle del Abedul",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.66952,
+        "lon": -4.7305,
+        "altitude": 0,
+        "address": "CALLE ABEDUL 9",
+        "post_code": "47009",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 2"
+        ],
+        "obcn": "102",
+        "short_name": "102",
+        "nearby_distance": 0,
+        "_bluetooth_id": "303b",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "24",
+        "name": "103 Calle Jupiter",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.66221,
+        "lon": -4.73668,
+        "altitude": 0,
+        "address": "Calle Jupiter8",
+        "post_code": "47009",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 2"
+        ],
+        "obcn": "103",
+        "short_name": "103",
+        "nearby_distance": 0,
+        "_bluetooth_id": "f475",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "25",
+        "name": "201 CENTRO CÍVICO ESGUEVA",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.65905,
+        "lon": -4.71488,
+        "altitude": 0,
+        "address": "CALLE MADRE DE DIOS 23",
+        "post_code": "47011",
+        "capacity": 22,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "201",
+        "short_name": "201",
+        "nearby_distance": 0,
+        "_bluetooth_id": "a610",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "26",
+        "name": "202 Campus Miguel Delibes",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6616694,
+        "lon": -4.7078573,
+        "altitude": 0,
+        "address": "PASEO DE BELÉN 2",
+        "post_code": "47011",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "202",
+        "short_name": "202",
+        "nearby_distance": 0,
+        "_bluetooth_id": "f96e",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "27",
+        "name": "203 Plaza Ribera de Castilla",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.66581,
+        "lon": -4.71812,
+        "altitude": 0,
+        "address": "CALLE CARDENAL TORQUEMADA 63",
+        "post_code": "47010",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "203",
+        "short_name": "203",
+        "nearby_distance": 0,
+        "_bluetooth_id": "52a0",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "28",
+        "name": "204 COLEGIO ENTRE RÍOS",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6638882,
+        "lon": -4.7210549,
+        "altitude": 0,
+        "address": "C. del Cardenal Torquemada 52",
+        "post_code": "47010",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "204",
+        "short_name": "204",
+        "nearby_distance": 0,
+        "_bluetooth_id": "c352",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "29",
+        "name": "205 HOSPITAL RONDILLA",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6590175230325,
+        "lon": -4.72553900432418,
+        "altitude": 0,
+        "address": "C. Rondilla Sta. Teresa24",
+        "post_code": "47010",
+        "capacity": 18,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "205",
+        "short_name": "205",
+        "nearby_distance": 0,
+        "_bluetooth_id": "75b9",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "30",
+        "name": "206 Calle del Portillo de Balboa #1",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6607146,
+        "lon": -4.7210671,
+        "altitude": 0,
+        "address": "C. Cardenal Cisneros 2",
+        "post_code": "47010",
+        "capacity": 17,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "206",
+        "short_name": "206",
+        "nearby_distance": 0,
+        "_bluetooth_id": "3870",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "31",
+        "name": "207 Av. Santander 16",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.66757,
+        "lon": -4.70898,
+        "altitude": 0,
+        "address": "Av. Santander 16",
+        "post_code": "47010",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "207",
+        "short_name": "207",
+        "nearby_distance": 0,
+        "_bluetooth_id": "a531",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "32",
+        "name": "208 Facultad Ciencias Económicas",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6578465,
+        "lon": -4.7105734,
+        "altitude": 0,
+        "address": "C/ Reyes Magos, s/n",
+        "post_code": "47011",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "208",
+        "short_name": "208",
+        "nearby_distance": 0,
+        "_bluetooth_id": "0546",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "33",
+        "name": "209 Paseo del Cauce",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6543103,
+        "lon": -4.7117588,
+        "altitude": 0,
+        "address": "Pº del Cauce 56",
+        "post_code": "47005",
+        "capacity": 18,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "209",
+        "short_name": "209",
+        "nearby_distance": 0,
+        "_bluetooth_id": "4b48",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "34",
+        "name": "210 Plaza de los Vadillos",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.65065,
+        "lon": -4.7134,
+        "altitude": 0,
+        "address": "Pº del Cauce 57",
+        "post_code": "47005",
+        "capacity": 26,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 3"
+        ],
+        "obcn": "210",
+        "short_name": "210",
+        "nearby_distance": 0,
+        "_bluetooth_id": "c75f",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "35",
+        "name": "301 Centro Cívico Zona Este",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.64499,
+        "lon": -4.7114,
+        "altitude": 0,
+        "address": "Calle La Cigüeña 17",
+        "post_code": "47012",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 4"
+        ],
+        "obcn": "301",
+        "short_name": "301",
+        "nearby_distance": 0,
+        "_bluetooth_id": "4303",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "36",
+        "name": "302 Plaza Mayo",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6425875,
+        "lon": -4.6934712,
+        "altitude": 0,
+        "address": "Calle La Margarita 1",
+        "post_code": "47017",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 4"
+        ],
+        "obcn": "302",
+        "short_name": "302",
+        "nearby_distance": 0,
+        "_bluetooth_id": "c580",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "37",
+        "name": "303 Calle de la Golondrina",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6484945114889,
+        "lon": -4.70331289733605,
+        "altitude": 0,
+        "address": "Calle La Golondrina 40",
+        "post_code": "47012",
+        "capacity": 18,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 4"
+        ],
+        "obcn": "303",
+        "short_name": "303",
+        "nearby_distance": 0,
+        "_bluetooth_id": "b3d2",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "38",
+        "name": "304 Calle de la Cigüeña",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6480093,
+        "lon": -4.7087843,
+        "altitude": 0,
+        "address": "Calle La Cigüeña 39",
+        "post_code": "47012",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 4"
+        ],
+        "obcn": "304",
+        "short_name": "304",
+        "nearby_distance": 0,
+        "_bluetooth_id": "abd6",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "39",
+        "name": "305 Calle del Cometa",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.654665,
+        "lon": -4.7020881,
+        "altitude": 0,
+        "address": "Calle del Cometa 1",
+        "post_code": "47011",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 4"
+        ],
+        "obcn": "305",
+        "short_name": "305",
+        "nearby_distance": 0,
+        "_bluetooth_id": "3bb7",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "40",
+        "name": "306 Centro Cívico Pilarica",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.652194,
+        "lon": -4.708457,
+        "altitude": 0,
+        "address": "Calle del Puente La Reina 3",
+        "post_code": "47011",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 4"
+        ],
+        "obcn": "306",
+        "short_name": "306",
+        "nearby_distance": 0,
+        "_bluetooth_id": "db50",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "41",
+        "name": "401 Avenida Segovia",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6425023,
+        "lon": -4.721336,
+        "altitude": 0,
+        "address": "Av. Segovia 33",
+        "post_code": "47013",
+        "capacity": 26,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 5"
+        ],
+        "obcn": "401",
+        "short_name": "401",
+        "nearby_distance": 0,
+        "_bluetooth_id": "905d",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "42",
+        "name": "402 Calle Arca Real",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6298429,
+        "lon": -4.7270302,
+        "altitude": 0,
+        "address": "Calle Arca Real 58",
+        "post_code": "47013",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 5"
+        ],
+        "obcn": "402",
+        "short_name": "402",
+        "nearby_distance": 0,
+        "_bluetooth_id": "4b08",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "43",
+        "name": "403 Paseo Arco de Ladrillo",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.63511,
+        "lon": -4.72962,
+        "altitude": 0,
+        "address": "Paseo Arco de Ladrillo 60",
+        "post_code": "47007",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 5"
+        ],
+        "obcn": "403",
+        "short_name": "403",
+        "nearby_distance": 0,
+        "_bluetooth_id": "fa6f",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "44",
+        "name": "404 Calle de Andalucía",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.644155,
+        "lon": -4.717204,
+        "altitude": 0,
+        "address": "Calle Andalucía 1",
+        "post_code": "47013",
+        "capacity": 18,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 5"
+        ],
+        "obcn": "404",
+        "short_name": "404",
+        "nearby_distance": 0,
+        "_bluetooth_id": "6104",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "45",
+        "name": "405 Plaza Gutiérrez Semprún",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.641661,
+        "lon": -4.71653,
+        "altitude": 0,
+        "address": "PLAZA GUTIERREZ SEMPRUN5",
+        "post_code": "47012",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 5"
+        ],
+        "obcn": "405",
+        "short_name": "405",
+        "nearby_distance": 0,
+        "_bluetooth_id": "6160",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "46",
+        "name": "406 Paseo de Juan Carlos I",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.637808,
+        "lon": -4.7174639,
+        "altitude": 0,
+        "address": "Paseo Juan Carlos I 24",
+        "post_code": "47013",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 5"
+        ],
+        "obcn": "406",
+        "short_name": "406",
+        "nearby_distance": 0,
+        "_bluetooth_id": "54a4",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "47",
+        "name": "407 Calle General Shelly",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6357993094422,
+        "lon": -4.722096,
+        "altitude": 0,
+        "address": "C. General Shelly 19",
+        "post_code": "47013",
+        "capacity": 22,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 5"
+        ],
+        "obcn": "407",
+        "short_name": "407",
+        "nearby_distance": 0,
+        "_bluetooth_id": "aa2f",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "48",
+        "name": "408 Calle de Embajadores",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6325134,
+        "lon": -4.7227304,
+        "altitude": 0,
+        "address": "C. Cartagena 14",
+        "post_code": "47013",
+        "capacity": 18,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 5"
+        ],
+        "obcn": "408",
+        "short_name": "408",
+        "nearby_distance": 0,
+        "_bluetooth_id": "5a16",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "49",
+        "name": "501 Ctra. Segovia - UEMC",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6264,
+        "lon": -4.71702,
+        "altitude": 0,
+        "address": "CALLE PADRE JULIO CHEVALIER 4",
+        "post_code": "47012",
+        "capacity": 22,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 6"
+        ],
+        "obcn": "501",
+        "short_name": "501",
+        "nearby_distance": 0,
+        "_bluetooth_id": "4d22",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "50",
+        "name": "502 Calle de Peñalara",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.61738,
+        "lon": -4.71778,
+        "altitude": 0,
+        "address": "Calle Peñalara 6",
+        "post_code": "47008",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 6"
+        ],
+        "obcn": "502",
+        "short_name": "502",
+        "nearby_distance": 0,
+        "_bluetooth_id": "f578",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "51",
+        "name": "503 Calle de Daniel del Olmo González",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.628,
+        "lon": -4.73379,
+        "altitude": 0,
+        "address": "C. de Daniel del Olmo González 14",
+        "post_code": "47008",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 6"
+        ],
+        "obcn": "503",
+        "short_name": "503",
+        "nearby_distance": 0,
+        "_bluetooth_id": "9e37",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "52",
+        "name": "504 Calle Bronce",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.616119,
+        "lon": -4.737315,
+        "altitude": 0,
+        "address": "C. Bronce 3",
+        "post_code": "47008",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 6"
+        ],
+        "obcn": "504",
+        "short_name": "504",
+        "nearby_distance": 0,
+        "_bluetooth_id": "5c59",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "53",
+        "name": "505 Calle Plata",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.61745,
+        "lon": -4.706254,
+        "altitude": 0,
+        "address": "C. Plata 125",
+        "post_code": "47012",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 6"
+        ],
+        "obcn": "505",
+        "short_name": "505",
+        "nearby_distance": 0,
+        "_bluetooth_id": "17c1",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "54",
+        "name": "506 Calle del Aluminio",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6219461,
+        "lon": -4.7104284,
+        "altitude": 0,
+        "address": "C. Alumino esq. C. Galena",
+        "post_code": "47012",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 6"
+        ],
+        "obcn": "506",
+        "short_name": "506",
+        "nearby_distance": 0,
+        "_bluetooth_id": "2c12",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "55",
+        "name": "507 Calle Cromo",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6266,
+        "lon": -4.7054,
+        "altitude": 0,
+        "address": "C. Cromo 29",
+        "post_code": "47012",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 6"
+        ],
+        "obcn": "507",
+        "short_name": "507",
+        "nearby_distance": 0,
+        "_bluetooth_id": "3ba5",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "56",
+        "name": "508 Calle Cobalto",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.623454,
+        "lon": -4.6994,
+        "altitude": 0,
+        "address": "C. Cobalto 1",
+        "post_code": "47012",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 6"
+        ],
+        "obcn": "508",
+        "short_name": "508",
+        "nearby_distance": 0,
+        "_bluetooth_id": "bca4",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "57",
+        "name": "601 Paseo Zorrilla, 328",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6229113,
+        "lon": -4.7490006,
+        "altitude": 0,
+        "address": "-4.748921",
+        "post_code": "47008",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 7"
+        ],
+        "obcn": "601",
+        "short_name": "601",
+        "nearby_distance": 0,
+        "_bluetooth_id": "4728",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "58",
+        "name": "602 Casa de la India",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.64094,
+        "lon": -4.73323,
+        "altitude": 0,
+        "address": "Calle del Puente Colgante9",
+        "post_code": "47007",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 7"
+        ],
+        "obcn": "602",
+        "short_name": "602",
+        "nearby_distance": 0,
+        "_bluetooth_id": "44c8",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "59",
+        "name": "603 Paseo Zorrilla, 132",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6372585,
+        "lon": -4.7392665,
+        "altitude": 0,
+        "address": "-4.739298",
+        "post_code": "47006",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 7"
+        ],
+        "obcn": "603",
+        "short_name": "603",
+        "nearby_distance": 0,
+        "_bluetooth_id": "",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "60",
+        "name": "604 Espacio Joven Sur Valladolid",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.631392,
+        "lon": -4.740289,
+        "altitude": 0,
+        "address": "Paseo Zorrilla 101",
+        "post_code": "47007",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 7"
+        ],
+        "obcn": "604",
+        "short_name": "604",
+        "nearby_distance": 0,
+        "_bluetooth_id": "",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "61",
+        "name": "605 Polideportivo Ponce de León",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.642797,
+        "lon": -4.738324,
+        "altitude": 0,
+        "address": "Calle Tres Amigos 6",
+        "post_code": "47006",
+        "capacity": 21,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 7"
+        ],
+        "obcn": "605",
+        "short_name": "605",
+        "nearby_distance": 0,
+        "_bluetooth_id": "9216",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "62",
+        "name": "606 Calle Vives",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.634054,
+        "lon": -4.741316,
+        "altitude": 0,
+        "address": "Calle Vives 7",
+        "post_code": "47006",
+        "capacity": 14,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 7"
+        ],
+        "obcn": "606",
+        "short_name": "606",
+        "nearby_distance": 0,
+        "_bluetooth_id": "f12c",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "63",
+        "name": "607 Calle Joaquín María Jalón",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6282916887972,
+        "lon": -4.74115220126999,
+        "altitude": 0,
+        "address": "Calle Joaquín María Jalón, 12",
+        "post_code": "47008",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 7"
+        ],
+        "obcn": "607",
+        "short_name": "607",
+        "nearby_distance": 0,
+        "_bluetooth_id": "1f2d",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "64",
+        "name": "608 Calle Doctor Moreno",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6252,
+        "lon": -4.740762,
+        "altitude": 0,
+        "address": "CALLE DOCTOR MORENO24",
+        "post_code": "47008",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 7"
+        ],
+        "obcn": "608",
+        "short_name": "608",
+        "nearby_distance": 0,
+        "_bluetooth_id": "9171",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "65",
+        "name": "609 Plaza de Toros ",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.640228,
+        "lon": -4.737603,
+        "altitude": 0,
+        "address": "Paseo Zorrilla 47",
+        "post_code": "47007",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 7"
+        ],
+        "obcn": "609",
+        "short_name": "609",
+        "nearby_distance": 0,
+        "_bluetooth_id": "8a6f",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "66",
+        "name": "701 CDO Covaresa",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.61266,
+        "lon": -4.749598,
+        "altitude": 0,
+        "address": "Calle Felipe Sánchez Román 4",
+        "post_code": "47008",
+        "capacity": 20,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "701",
+        "short_name": "701",
+        "nearby_distance": 0,
+        "_bluetooth_id": "d81a",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "67",
+        "name": "702 Calle Atenas",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.618343,
+        "lon": -4.764318,
+        "altitude": 0,
+        "address": "Calle Atenas 74",
+        "post_code": "47008",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "702",
+        "short_name": "702",
+        "nearby_distance": 0,
+        "_bluetooth_id": "c7c0",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "68",
+        "name": "703 Calle José Velicia",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6171864,
+        "lon": -4.7585483,
+        "altitude": 0,
+        "address": "Calle José Velicia 46",
+        "post_code": "47008",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "703",
+        "short_name": "703",
+        "nearby_distance": 0,
+        "_bluetooth_id": "4625",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "69",
+        "name": "704 Calle de la Alcaparra",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6142,
+        "lon": -4.7613,
+        "altitude": 0,
+        "address": "Calle Alcaparra 25",
+        "post_code": "47008",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "704",
+        "short_name": "704",
+        "nearby_distance": 0,
+        "_bluetooth_id": "19ba",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "70",
+        "name": "705 Calle Ignacio Serrano",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6097882,
+        "lon": -4.7548381,
+        "altitude": 0,
+        "address": "CALLE IGNACIO SERRANO33",
+        "post_code": "47008",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "705",
+        "short_name": "705",
+        "nearby_distance": 0,
+        "_bluetooth_id": "370e",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "71",
+        "name": "706 Calle Antonio Machado",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.61418,
+        "lon": -4.7536405,
+        "altitude": 0,
+        "address": "Calle Antonio Machado 26",
+        "post_code": "47008",
+        "capacity": 22,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "706",
+        "short_name": "706",
+        "nearby_distance": 0,
+        "_bluetooth_id": "32",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "72",
+        "name": "707 Agencia de Innovación",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6186813,
+        "lon": -4.7479052,
+        "altitude": 0,
+        "address": "Paseo de Zorrilla 191",
+        "post_code": "47008",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "707",
+        "short_name": "707",
+        "nearby_distance": 0,
+        "_bluetooth_id": "8c6c",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "73",
+        "name": "708 Calle de Villafrades de Campos",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6188043,
+        "lon": -4.7556287,
+        "altitude": 0,
+        "address": "Calle de Villafrades de Campos 12",
+        "post_code": "47008",
+        "capacity": 17,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "708",
+        "short_name": "708",
+        "nearby_distance": 0,
+        "_bluetooth_id": "a581",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "74",
+        "name": "709 Calle Ribera del Carrión",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6176,
+        "lon": -4.7439,
+        "altitude": 0,
+        "address": "Calle Ribera del Carrión 6",
+        "post_code": "47008",
+        "capacity": 17,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "709",
+        "short_name": "709",
+        "nearby_distance": 0,
+        "_bluetooth_id": "e335",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "75",
+        "name": "710 Calle Santiago Alba",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.608458,
+        "lon": -4.748399,
+        "altitude": 0,
+        "address": "Calle Santiago Alba 3",
+        "post_code": "47008",
+        "capacity": 17,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 8"
+        ],
+        "obcn": "710",
+        "short_name": "710",
+        "nearby_distance": 0,
+        "_bluetooth_id": "34d8",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "76",
+        "name": "801 Centro Cívico Casa Cuna",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6307642,
+        "lon": -4.7473696,
+        "altitude": 0,
+        "address": "Calle Venezuela 3",
+        "post_code": "47014",
+        "capacity": 23,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "801",
+        "short_name": "801",
+        "nearby_distance": 0,
+        "_bluetooth_id": "b83c",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "77",
+        "name": "802 Plaza Marcos Fernandez",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6361457,
+        "lon": -4.7598726,
+        "altitude": 0,
+        "address": "Calle Amadeo Arias101",
+        "post_code": "47014",
+        "capacity": 22,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "802",
+        "short_name": "802",
+        "nearby_distance": 0,
+        "_bluetooth_id": "4131",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "78",
+        "name": "803 Calle Prof. Adolfo Miaja de la Muela",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.635579,
+        "lon": -4.754965,
+        "altitude": 0,
+        "address": "C. Prof. Adolfo Miaja de la Muela 40",
+        "post_code": "47014",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "803",
+        "short_name": "803",
+        "nearby_distance": 0,
+        "_bluetooth_id": "26e4",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "79",
+        "name": "804 Calle José Garrote Tebar",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.63465,
+        "lon": -4.758734,
+        "altitude": 0,
+        "address": "C. José Garrote Tebar 16",
+        "post_code": "47014",
+        "capacity": 17,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "804",
+        "short_name": "804",
+        "nearby_distance": 0,
+        "_bluetooth_id": "460d",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "80",
+        "name": "805 Calle Federico Landrove Moiño",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.632941,
+        "lon": -4.75745,
+        "altitude": 0,
+        "address": "C. Federico Landrove Moiño 4",
+        "post_code": "47014",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "805",
+        "short_name": "805",
+        "nearby_distance": 0,
+        "_bluetooth_id": "5bfa",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "81",
+        "name": "806 Calle Manuel Azaña ",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.636593,
+        "lon": -4.76722,
+        "altitude": 0,
+        "address": "C. Manuel Azaña 24",
+        "post_code": "47014",
+        "capacity": 18,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "806",
+        "short_name": "806",
+        "nearby_distance": 0,
+        "_bluetooth_id": "8319",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "82",
+        "name": "807 Calle de Hernando de Acuña",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.638141,
+        "lon": -4.761866,
+        "altitude": 0,
+        "address": "C HERNANDO DE ACUÑA 44",
+        "post_code": "47014",
+        "capacity": 18,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "807",
+        "short_name": "807",
+        "nearby_distance": 0,
+        "_bluetooth_id": "1b4d",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "83",
+        "name": "808 Calle de Manuel Silvela",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.63874,
+        "lon": -4.75791,
+        "altitude": 0,
+        "address": "C. Manuel Silvela esquina C. Juan de Valla.",
+        "post_code": "47014",
+        "capacity": 17,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "808",
+        "short_name": "808",
+        "nearby_distance": 0,
+        "_bluetooth_id": "0420",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "84",
+        "name": "809 Calle de Mariano de los Cobos",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.638243,
+        "lon": -4.74921,
+        "altitude": 0,
+        "address": "C. Mariano de los Cobos 2",
+        "post_code": "47014",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "809",
+        "short_name": "809",
+        "nearby_distance": 0,
+        "_bluetooth_id": "9dc1",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "85",
+        "name": "810 Piscina Municipal Parquesol",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.641103,
+        "lon": -4.757171,
+        "altitude": null,
+        "address": "C. Padre Llanos 1",
+        "post_code": "47014",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 9"
+        ],
+        "obcn": "810",
+        "short_name": "810",
+        "nearby_distance": 0,
+        "_bluetooth_id": "fb01",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "86",
+        "name": "901 Plaza del Milenio",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6488,
+        "lon": -4.7363,
+        "altitude": 0,
+        "address": "Calle Francesco Scrimieri 1",
+        "post_code": "47014",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "901",
+        "short_name": "901",
+        "nearby_distance": 0,
+        "_bluetooth_id": "3b92",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "87",
+        "name": "902 Feria de Valladolid",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.656539,
+        "lon": -4.7373551,
+        "altitude": 0,
+        "address": "Av. Ramón Pradera 10",
+        "post_code": "47009",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "902",
+        "short_name": "902",
+        "nearby_distance": 0,
+        "_bluetooth_id": "fdc3",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "88",
+        "name": "903 Plaza Juan Pablo II",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.645781,
+        "lon": -4.747139,
+        "altitude": 0,
+        "address": "C. Monasterio Sto Domingo de Silos 205",
+        "post_code": "47014",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "903",
+        "short_name": "903",
+        "nearby_distance": 0,
+        "_bluetooth_id": "b58b",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "89",
+        "name": "904 Complejo Deportivo Los Cerros",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.65567,
+        "lon": -4.74454,
+        "altitude": 0,
+        "address": "C. Oriental 17",
+        "post_code": "47009",
+        "capacity": 21,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "904",
+        "short_name": "904",
+        "nearby_distance": 0,
+        "_bluetooth_id": "418c",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "90",
+        "name": "905 Centro Municipal José Luis Mosquera",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.649744,
+        "lon": -4.7416973,
+        "altitude": 0,
+        "address": "C. Pío del Río Hortega 16",
+        "post_code": "47014",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "905",
+        "short_name": "905",
+        "nearby_distance": 0,
+        "_bluetooth_id": "777d",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "91",
+        "name": "906 Calle Arado",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6512,
+        "lon": -4.74592,
+        "altitude": 0,
+        "address": "Calle Arado 3",
+        "post_code": "47014",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "906",
+        "short_name": "906",
+        "nearby_distance": 0,
+        "_bluetooth_id": "9ded",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "92",
+        "name": "907 Calle de Rigoberto Cortejoso",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6533033,
+        "lon": -4.7394965,
+        "altitude": 0,
+        "address": "Calle Rigoberto Cortejoso 1",
+        "post_code": "47014",
+        "capacity": 17,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "907",
+        "short_name": "907",
+        "nearby_distance": 0,
+        "_bluetooth_id": "cb61",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "93",
+        "name": "908 Calle Joaquín Velasco Martín, 17",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.64525,
+        "lon": -4.74052,
+        "altitude": 0,
+        "address": "CALLE JOAQUIN VELASCO MARTIN Nº106",
+        "post_code": "47014",
+        "capacity": 19,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "908",
+        "short_name": "908",
+        "nearby_distance": 0,
+        "_bluetooth_id": "7253",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "94",
+        "name": "909 Calle Monasterio de Sto Domingo de Silos",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.645253,
+        "lon": -4.744917,
+        "altitude": 0,
+        "address": "C. Monasterio de Sto. Domingo de Silos 6",
+        "post_code": "47015",
+        "capacity": 18,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "909",
+        "short_name": "909",
+        "nearby_distance": 0,
+        "_bluetooth_id": "ce06",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "95",
+        "name": "910 Calle de las Mieses",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6587539839215,
+        "lon": -4.74090685519465,
+        "altitude": null,
+        "address": "Calle de las Mieses22",
+        "post_code": "47009",
+        "capacity": 15,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "910",
+        "short_name": "910",
+        "nearby_distance": 0,
+        "_bluetooth_id": "2fb5",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "96",
+        "name": "911 Calle Joaquín Velasco Martín, 1",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.652405,
+        "lon": -4.736429,
+        "altitude": 0,
+        "address": "Calle de Joaquín Velasco Martín 1",
+        "capacity": 17,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 10"
+        ],
+        "obcn": "911",
+        "short_name": "911",
+        "nearby_distance": 0,
+        "_bluetooth_id": "b47d",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "97",
+        "name": "1001 La Overuela",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.69083,
+        "lon": -4.70712,
+        "altitude": 0,
+        "address": "Plaza Alfonso X",
+        "post_code": "47009",
+        "capacity": 9,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 11"
+        ],
+        "obcn": "1001",
+        "short_name": "1001",
+        "nearby_distance": 0,
+        "_bluetooth_id": "2bf5",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "98",
+        "name": "1002 Puente Duero",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.55413,
+        "lon": -4.79122,
+        "altitude": 0,
+        "address": "Calle Real 116",
+        "post_code": "47152",
+        "capacity": 10,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 11"
+        ],
+        "obcn": "1002",
+        "short_name": "1002",
+        "nearby_distance": 0,
+        "_bluetooth_id": "9d94",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "105",
+        "name": "104 Michelín",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6752589978084,
+        "lon": -4.71711791280539,
+        "altitude": null,
+        "address": "Test",
+        "post_code": "47005",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 2"
+        ],
+        "obcn": "104",
+        "short_name": "104",
+        "nearby_distance": 0,
+        "_bluetooth_id": "92de",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "106",
+        "name": "1005 Santovenia Centro Civico",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.692504,
+        "lon": -4.688387,
+        "altitude": 0,
+        "address": "1005 Santovenia Centro Cívico",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 11"
+        ],
+        "obcn": "1005 Santovenia Centro Civico",
+        "short_name": "1005 Santovenia Centro Civico",
+        "nearby_distance": 50,
+        "_bluetooth_id": "51a1",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "107",
+        "name": "1006 Santovenia Calle Fuentona",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.688927,
+        "lon": -4.688221,
+        "altitude": 0,
+        "address": "1006 Santovenia Calle Fuentona",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [
+          "grupo 11"
+        ],
+        "obcn": "1006 Santovenia Calle Fuentona",
+        "short_name": "1006 Santovenia Calle Fuentona",
+        "nearby_distance": 50,
+        "_bluetooth_id": "4896",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "109",
+        "name": "1004 La Cistérniga Cañada Real",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6099301446686,
+        "lon": -4.68520077169748,
+        "altitude": 0,
+        "address": "La Cisterniga Cañada Real 1004",
+        "post_code": "47193",
+        "capacity": 11,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [],
+        "obcn": "1004",
+        "short_name": "1004",
+        "nearby_distance": 1000,
+        "_bluetooth_id": "7737",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      },
+      {
+        "station_id": "110",
+        "name": "1003 La Cistérniga San Cristóbal",
+        "physical_configuration": "ELECTRICBIKESTATION",
+        "lat": 41.6121747177606,
+        "lon": -4.68852728265144,
+        "altitude": 0,
+        "address": "La Cisterniga Rotonda San Cristobal",
+        "capacity": 10,
+        "is_charging_station": true,
+        "geofenced_capacity": 0,
+        "rental_methods": [
+          "KEY",
+          "TRANSITCARD",
+          "CREDITCARD",
+          "PHONE"
+        ],
+        "is_virtual_station": false,
+        "groups": [],
+        "obcn": "1003 La Cisterniga",
+        "short_name": "1003 La Cisterniga",
+        "nearby_distance": 1000,
+        "_bluetooth_id": "b8c2",
+        "_ride_code_support": true,
+        "rental_uris": {
+
+        }
+      }
+    ]
+  },
+  "version": "2.3"
+}

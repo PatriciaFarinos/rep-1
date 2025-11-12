@@ -1,0 +1,22 @@
+{
+  "last_updated": 1762792143,
+  "ttl": 3,
+  "data": {
+    "system_id": "BIKI_valladolid",
+    "language": "en",
+    "name": "Valladolid",
+    "timezone": "Europe/Madrid",
+    "build_version": "2025.2",
+    "build_label": "2025-07-25",
+    "build_hash": "67f3376",
+    "build_number": "2",
+    "mobile_head_version": "2",
+    "mobile_minimum_supported_version": "1",
+    "_vehicle_count": {
+      "_mechanical_count": 1258,
+      "_ebike_count": 490
+    },
+    "_station_count": 102
+  },
+  "version": "2.3"
+}
