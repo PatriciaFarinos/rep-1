@@ -30,9 +30,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "955c",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "3",
@@ -61,9 +59,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "e5d3",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "4",
@@ -92,9 +88,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "b29c",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "5",
@@ -123,9 +117,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "8ac5",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "6",
@@ -154,9 +146,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "c3a1",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "7",
@@ -185,9 +175,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "11d4",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "8",
@@ -216,9 +204,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "464a",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "9",
@@ -247,9 +233,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "6dba",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "10",
@@ -278,9 +262,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "a5e3",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "11",
@@ -308,9 +290,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "18bc",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "12",
@@ -339,9 +319,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "a10c",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "13",
@@ -369,9 +347,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "683d",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "14",
@@ -400,9 +376,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "4836",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "15",
@@ -431,9 +405,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "31a8",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "16",
@@ -462,9 +434,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "b647",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "17",
@@ -493,9 +463,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "f6ad",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "18",
@@ -524,9 +492,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "f151",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "19",
@@ -555,9 +521,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "48af",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "20",
@@ -586,9 +550,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "6a94",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "21",
@@ -617,9 +579,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "6e7d",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "22",
@@ -648,9 +608,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "2daa",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "23",
@@ -679,9 +637,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "303b",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "24",
@@ -710,9 +666,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "f475",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "25",
@@ -741,9 +695,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "a610",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "26",
@@ -772,9 +724,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "f96e",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "27",
@@ -803,9 +753,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "52a0",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "28",
@@ -834,9 +782,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "c352",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "29",
@@ -865,9 +811,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "75b9",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "30",
@@ -896,9 +840,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "3870",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "31",
@@ -927,9 +869,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "a531",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "32",
@@ -958,9 +898,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "0546",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "33",
@@ -989,9 +927,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "4b48",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "34",
@@ -1020,9 +956,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "c75f",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "35",
@@ -1051,9 +985,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "4303",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "36",
@@ -1082,9 +1014,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "c580",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "37",
@@ -1113,9 +1043,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "b3d2",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "38",
@@ -1144,9 +1072,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "abd6",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "39",
@@ -1175,9 +1101,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "3bb7",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "40",
@@ -1206,9 +1130,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "db50",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "41",
@@ -1237,9 +1159,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "905d",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "42",
@@ -1268,9 +1188,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "4b08",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "43",
@@ -1299,9 +1217,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "fa6f",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "44",
@@ -1330,9 +1246,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "6104",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "45",
@@ -1361,9 +1275,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "6160",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "46",
@@ -1392,9 +1304,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "54a4",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "47",
@@ -1423,9 +1333,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "aa2f",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "48",
@@ -1454,9 +1362,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "5a16",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "49",
@@ -1485,9 +1391,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "4d22",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "50",
@@ -1516,9 +1420,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "f578",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "51",
@@ -1547,9 +1449,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "9e37",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "52",
@@ -1578,9 +1478,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "5c59",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "53",
@@ -1609,9 +1507,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "17c1",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "54",
@@ -1640,9 +1536,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "2c12",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "55",
@@ -1671,9 +1565,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "3ba5",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "56",
@@ -1702,9 +1594,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "bca4",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "57",
@@ -1733,9 +1623,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "4728",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "58",
@@ -1764,9 +1652,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "44c8",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "59",
@@ -1795,9 +1681,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "60",
@@ -1826,9 +1710,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "61",
@@ -1857,9 +1739,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "9216",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "62",
@@ -1888,9 +1768,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "f12c",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "63",
@@ -1919,9 +1797,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "1f2d",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "64",
@@ -1950,9 +1826,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "9171",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "65",
@@ -1981,9 +1855,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "8a6f",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "66",
@@ -2012,9 +1884,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "d81a",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "67",
@@ -2043,9 +1913,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "c7c0",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "68",
@@ -2074,9 +1942,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "4625",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "69",
@@ -2105,9 +1971,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "19ba",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "70",
@@ -2136,9 +2000,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "370e",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "71",
@@ -2167,9 +2029,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "32",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "72",
@@ -2198,9 +2058,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "8c6c",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "73",
@@ -2229,9 +2087,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "a581",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "74",
@@ -2260,9 +2116,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "e335",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "75",
@@ -2291,9 +2145,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "34d8",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "76",
@@ -2322,9 +2174,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "b83c",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "77",
@@ -2353,9 +2203,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "4131",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "78",
@@ -2384,9 +2232,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "26e4",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "79",
@@ -2415,9 +2261,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "460d",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "80",
@@ -2446,9 +2290,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "5bfa",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "81",
@@ -2477,9 +2319,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "8319",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "82",
@@ -2508,9 +2348,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "1b4d",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "83",
@@ -2539,9 +2377,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "0420",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "84",
@@ -2570,9 +2406,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "9dc1",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "85",
@@ -2601,9 +2435,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "fb01",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "86",
@@ -2632,9 +2464,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "3b92",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "87",
@@ -2663,9 +2493,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "fdc3",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "88",
@@ -2694,9 +2522,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "b58b",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "89",
@@ -2725,9 +2551,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "418c",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "90",
@@ -2756,9 +2580,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "777d",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "91",
@@ -2787,9 +2609,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "9ded",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "92",
@@ -2818,9 +2638,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "cb61",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "93",
@@ -2849,9 +2667,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "7253",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "94",
@@ -2880,9 +2696,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "ce06",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "95",
@@ -2911,9 +2725,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "2fb5",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "96",
@@ -2941,9 +2753,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "b47d",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "97",
@@ -2972,9 +2782,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "2bf5",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "98",
@@ -3003,9 +2811,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "9d94",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "105",
@@ -3034,9 +2840,7 @@
         "nearby_distance": 0,
         "_bluetooth_id": "92de",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "106",
@@ -3064,9 +2868,7 @@
         "nearby_distance": 50,
         "_bluetooth_id": "51a1",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "107",
@@ -3094,9 +2896,7 @@
         "nearby_distance": 50,
         "_bluetooth_id": "4896",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "109",
@@ -3123,9 +2923,7 @@
         "nearby_distance": 1000,
         "_bluetooth_id": "7737",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       },
       {
         "station_id": "110",
@@ -3151,9 +2949,7 @@
         "nearby_distance": 1000,
         "_bluetooth_id": "b8c2",
         "_ride_code_support": true,
-        "rental_uris": {
-
-        }
+        "rental_uris": {}
       }
     ]
   },
