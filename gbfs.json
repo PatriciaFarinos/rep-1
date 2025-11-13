@@ -1,40 +1,40 @@
 {
-  "last_updated": 1763034458,
+  "last_updated": 1763048792,
   "ttl": 30,
   "data": {
     "en": {
       "feeds": [
         {
           "name": "geofencing_zones",
-          "url": "https://valladolid.publicbikesystem.net/customer/gbfs/v2/en/geofencing_zones"
+          "url": "raw.githubusercontent.com/PatriciaFarinos/rep-1/main/V2/geofencing_zones.json"
         },
         {
           "name": "gbfs_versions",
-          "url": "https://valladolid.publicbikesystem.net/customer/gbfs/v2/gbfs_versions"
+          "url": "raw.githubusercontent.com/PatriciaFarinos/rep-1/main/V2/gbfs_versions.json"
         },
         {
           "name": "vehicle_types",
-          "url": "https://valladolid.publicbikesystem.net/customer/gbfs/v2/en/vehicle_types"
+          "url": "raw.githubusercontent.com/PatriciaFarinos/rep-1/main/V2/vehicle_types.json"
         },
         {
           "name": "station_information",
-          "url": "https://valladolid.publicbikesystem.net/customer/gbfs/v2/en/station_information"
+          "url": "raw.githubusercontent.com/PatriciaFarinos/rep-1/main/V2/station_information.json"
         },
         {
           "name": "station_status",
-          "url": "https://valladolid.publicbikesystem.net/customer/gbfs/v2/en/station_status"
+          "url": "raw.githubusercontent.com/PatriciaFarinos/rep-1/main/V2/station_status.json"
         },
         {
           "name": "system_regions",
-          "url": "https://valladolid.publicbikesystem.net/customer/gbfs/v2/en/system_regions"
+          "url": "raw.githubusercontent.com/PatriciaFarinos/rep-1/main/V2/system_regions.json"
         },
         {
           "name": "system_information",
-          "url": "https://valladolid.publicbikesystem.net/customer/gbfs/v2/en/system_information"
+          "url": "raw.githubusercontent.com/PatriciaFarinos/rep-1/main/V2/system_information.json"
         },
         {
           "name": "system_pricing_plans",
-          "url": "https://valladolid.publicbikesystem.net/customer/gbfs/v2/en/system_pricing_plans"
+          "url": "raw.githubusercontent.com/PatriciaFarinos/rep-1/main/V2/system_pricing_plans.json"
         }
       ]
     }
